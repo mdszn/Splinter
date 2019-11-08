@@ -1,5 +1,7 @@
 # Splinter
 
+Copyright (c) 2019 Jeff Lund, Mirko Draganic
+
 ## To build
 
 *make* will build the splinter program as well as the shell invoked.
